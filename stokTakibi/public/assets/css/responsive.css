@@ -1,0 +1,28 @@
+@media screen and (min-width: 400px) {
+    *{
+        font-size:13px !important;
+    }
+   .closebtn{
+    font-size: 27px !important;
+   }
+    .sidenav 
+    {
+        width: 250px;
+        }
+    .menuCard
+    {
+            width: 17rem; 
+            margin-left:auto;
+        }
+    .menucard
+    {
+            padding:3px; 
+        
+        }
+        #closeBtn{
+            font-size: 27px !important;
+        }
+        #main{
+            margin-left:17% !important;
+        }
+  }
